@@ -1,0 +1,90 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_WIND",
+            "type": "png",
+            "file": "images/wind.png"
+        },
+        {
+            "defName": "IMAGE_SNOW",
+            "type": "png",
+            "file": "images/snow.png"
+        },
+        {
+            "defName": "IMAGE_SLEET",
+            "type": "png",
+            "file": "images/sleet.png"
+        },
+        {
+            "defName": "IMAGE_RAIN",
+            "type": "png",
+            "file": "images/rain.png"
+        },
+        {
+            "defName": "IMAGE_PARTLY_CLOUDY_NIGHT",
+            "type": "png",
+            "file": "images/partly-cloudy-night.png"
+        },
+        {
+            "defName": "IMAGE_PARTLY_CLOUDY_DAY",
+            "type": "png",
+            "file": "images/partly-cloudy-day.png"
+        },
+        {
+            "defName": "IMAGE_FOG",
+            "type": "png",
+            "file": "images/fog.png"
+        },
+        {
+            "defName": "IMAGE_NO_WEATHER",
+            "type": "png",
+            "file": "images/error.png"
+        },
+        {
+            "defName": "IMAGE_CLOUDY",
+            "type": "png",
+            "file": "images/cloudy.png"
+        },
+        {
+            "defName": "IMAGE_CLEAR_NIGHT",
+            "type": "png",
+            "file": "images/clear-night.png"
+        },
+        {
+            "defName": "IMAGE_CLEAR_DAY",
+            "type": "png",
+            "file": "images/clear-day.png"
+        },
+        {
+            "defName": "IMAGE_SMS",
+            "type": "png",
+            "file": "images/sms.png"
+        },
+        {
+            "defName": "IMAGE_PHONECALLS",
+            "type": "png",
+            "file": "images/phonecalls.png"
+        },
+        {
+            "trackingAdjust": -4,
+            "characterRegex": "[0-9:\u00b0-]",
+            "defName": "FUTURA_40",
+            "type": "font",
+            "file": "fonts/futura.ttf"
+        },
+        {
+            "characterRegex": "[a-z]",
+            "defName": "FONT_40",
+            "type": "font",
+            "file": "fonts/Georgia.ttf"
+        },
+        {
+            "characterRegex": "[a-z ]",
+            "defName": "FONT_30",
+            "type": "font",
+            "file": "fonts/GeorgiaSmall.ttf"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "RESOURCES"
+}
